@@ -101,7 +101,4 @@ Netflix-User-Segmentation/
 ## 🧠 Conclusion
 This project demonstrates how user data can be analyzed and segmented using machine learning techniques. The insights can be used for personalization, recommendation systems, and targeted marketing strategies.
 
----
 
-## 👨‍💻 Author
-Badri Narayan M S
